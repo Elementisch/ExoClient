@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "product": "exo-launcher",
+  "version": "1.0.0",
+  "releasedAt": "2026-10-09T08:55:51.423Z",
+  "minLauncher": "1.0.0",
+  "manifest": "launcher/releases/1.0.0/manifest.json",
+  "releaseNotes": [
+    "ExoLauncher 1.0.0"
+  ],
+  "signature": null
+}

@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "version": "1.4.2",
+  "channel": "stable",
+  "product": "exo-client",
+  "releasedAt": "2026-10-09T08:55:51.423Z",
+  "launcherVersion": "1.0.0",
+  "clientVersion": "1.4.2",
+  "files": [
+    {
+      "path": "client/1.8.9/exoclient.jar",
+      "name": "exoclient.jar",
+      "kind": "client",
+      "size": 21149399,
+      "sha256": "b6a05131a1562d0018b133070b1022132acf7d86c65b9cbf8aa0e54fa62c54da",
+      "url": "releases/stable/1.4.2/files/client/1.8.9/exoclient.jar",
+      "downloadUrl": "releases/stable/1.4.2/files/client/1.8.9/exoclient.jar"
+    },
+    {
+      "path": "content/ui/release.json",
+      "name": "release.json",
+      "kind": "content",
+      "size": 112,
+      "sha256": "363a8da055bb231f016e1fc6e6acd9deb2b789907957c84e4df39d38ea79b5ba",
+      "url": "releases/stable/1.4.2/files/content/ui/release.json",
+      "downloadUrl": "releases/stable/1.4.2/files/content/ui/release.json"
+    }
+  ],
+  "signature": null
+}

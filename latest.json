@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "product": "exo-client",
+  "channel": "stable",
+  "version": "1.4.2",
+  "launcherVersion": "1.0.0",
+  "clientVersion": "1.4.2",
+  "releasedAt": "2026-10-09T08:55:51.423Z",
+  "minLauncher": "1.0.0",
+  "notes": [
+    "EXO 1.4.2"
+  ],
+  "installer": {
+    "name": "EXO-Client-Installer-1.0.0.exe",
+    "url": "./EXO-Client-Installer-1.0.0.exe",
+    "sha256": "c6a1a9fe46a751b4eeb50ee1993a013db8ad52f1f747bde1eb466aaf68d0b62d",
+    "size": 92644334
+  }
+}

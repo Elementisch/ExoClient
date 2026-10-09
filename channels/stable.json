@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "product": "exo-client",
+  "version": "1.4.2",
+  "releasedAt": "2026-10-09T08:55:51.423Z",
+  "minLauncher": "1.0.0",
+  "launcherVersion": "1.0.0",
+  "clientVersion": "1.4.2",
+  "manifest": "releases/stable/1.4.2/manifest.json",
+  "releaseNotes": [
+    "EXO 1.4.2"
+  ],
+  "signature": null
+}
